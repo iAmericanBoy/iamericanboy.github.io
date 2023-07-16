@@ -1,1 +1,15 @@
-new file
+{
+ "applinks": {
+     "details": [
+          {
+            "appIDs": [ "<My Application Identifier Prefix>.<My Bundle ID>" ],
+            "components": [
+              {
+                 "/": "/plaid/*",
+                 "comment": "Matches any URL path whose path starts with /plaid/"
+              }
+            ]
+          }
+      ]
+  }
+}
