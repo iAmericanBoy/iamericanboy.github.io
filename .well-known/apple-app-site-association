@@ -2,7 +2,7 @@
  "applinks": {
      "details": [
           {
-            "appIDs": [ "<My Application Identifier Prefix>.<My Bundle ID>" ],
+            "appIDs": [ "J6B8ZX28ZW.oskman.Checkbook2" ],
             "components": [
               {
                  "/": "/plaid/*",
